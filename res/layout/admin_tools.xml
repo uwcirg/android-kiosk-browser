@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:useDefaultMargins="false" >
+
+    <Button
+        android:id="@+id/continue_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/continue_browsing"
+        android:onClick="continueBrowsing" />
+
+    <Button
+        android:id="@+id/reset_config_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reset_config"
+        android:onClick="resetConfig" />
+
+    <Button
+        android:id="@+id/set_password_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/set_password" 
+        android:onClick="setPassword"/>
+
+</LinearLayout>

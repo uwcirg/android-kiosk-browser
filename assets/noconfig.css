@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background:#e4ebf1;
+    line-height: 1.5em
+}
+
+html {
+    font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
+    color: #333
+}
+
+#info{
+    text-align: left;
+    margin: auto;
+    border: 2px solid black;
+    width: 60%;
+    padding: 10px;
+}
+#info.option{
+    text-align: center;
+
+}

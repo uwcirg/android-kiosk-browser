@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/admin_menu_option"
+        android:title="@+string/admin_access"/>
+    
+    <item android:id="@+id/to_home_menu_option"
+        android:title="@+string/home_screen"/>
+    
+</menu>

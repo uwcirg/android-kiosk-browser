@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KioskBrowser</string>
+    <string name="auth_request">User Authentication Required</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="backup_email_suggestion">somebody@somewhere.com</string>
+    <string name="set_password">Set Kiosk Password</string>
+    <string name="enter_pw">Enter Password</string>
+    <string name="confirm_pw">Confirm Password</string>
+    <string name="backup_email">Backup Email [Optional]</string>
+    <string name="enter">Enter</string>
+    <string name="cancel">Cancel</string>
+    <string name="config_error">No Config File Found</string>
+    <string name="admin_access">Admin Access</string>
+    <string name="title_set_password_activity">Set Admin Password</string>
+    <string name="continue_browsing">Continue Browsing</string>
+    <string name="reset_config">Reset Config File</string>
+    <string name="toggle_kiosk">Toggle Kiosk Mode</string>
+</resources>
